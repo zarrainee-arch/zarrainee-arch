@@ -1,35 +1,8 @@
 <div align="center">
 
-# `ZAHRA.EXE`
-
-`SYSTEM ONLINE`
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   ███████╗ █████╗ ██╗  ██╗██████╗  █████╗              │
-│   ╚══███╔╝██╔══██╗██║  ██║██╔══██╗██╔══██╗             │
-│      ███╔╝ ███████║███████║██████╔╝███████║             │
-│     ███╔╝  ██╔══██║██╔══██║██╔══██╗██╔══██║             │
-│    ███████╗██║  ██║██║  ██║██║  ██║██║  ██║             │
-│    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝             │
-│                                                          │
-│   [ SYSTEM BOOT ]                                        │
-│                                                          │
-│   > initializing user profile............... [ OK ]      │
-│   > loading identity......................... [ OK ]      │
-│   > loading skills........................... [ OK ]      │
-│   > establishing connection................. [ OK ]      │
-│                                                          │
-│   ACCESS GRANTED.                                        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-`computer science student` · `programmer` · `cyber enthusiast`
+<img src="./header.png" width="100%">
 
 </div>
-
 ---
 
 ## `> whoami`
@@ -48,13 +21,13 @@ location   : Bandung, Indonesia
 status     : learning & building
 ```
 
-I'm a Computer Science student who enjoys turning ideas into something tangible through code.
+A Computer Science student who enjoys turning ideas into something tangible through code.
 
-Currently exploring **web development, game development, cybersecurity, and software engineering** — learning by building, experimenting, breaking things, and figuring out how to fix them.
+Currently exploring **web development, it-business, cybersecurity, and software engineering** — learning by building, experimenting, breaking things, and figuring out how to fix them.
 
 Sometimes I code with a purpose.
 
-Sometimes I code because an idea randomly appeared at 2 AM.
+Sometimes I don't code.
 
 Either way, there's probably music playing in the background.
 
