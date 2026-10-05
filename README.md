@@ -21,7 +21,7 @@ location   : Bandung, Indonesia
 status     : learning & building
 ```
 
-A Computer Science student who enjoys turning ideas into something tangible through code.
+A Computer Science student who enjoys turning ideas into something tangible through code (depends).
 
 Currently exploring **web development, it-business, cybersecurity, and software engineering** — learning by building, experimenting, breaking things, and figuring out how to fix them.
 
@@ -73,24 +73,6 @@ Either way, there's probably music playing in the background.
 └── Godot
 ```
 
----
-
-## `> system --status`
-
-```python
-class Zahra:
-
-    def __init__(self):
-        self.currently = "learning"
-        self.goal = "building better things"
-
-    def process(self):
-        while True:
-            self.learn()
-            self.build()
-            self.improve()
-```
-
 ```text
 SYSTEM STATUS
 
@@ -124,18 +106,6 @@ The following packages will be installed:
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  connection established.                    │
-│                                              │
-│  user@zahra:~$ echo "still curious."        │
-│                                              │
-│  still curious.                              │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-`// still learning. still building. still curious.`
+<img src="./footer.png" width="100%">
 
 </div>
