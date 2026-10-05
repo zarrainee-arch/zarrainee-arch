@@ -14,23 +14,12 @@ zahra
 ```
 
 ```txt
-name       : Zahra Qurrota Aini
-role       : Computer Science Student
-university : Universitas Pendidikan Indonesia
+user       : zahra
+field      : Computer Science
+univ       : Universitas Pendidikan Indonesia
 location   : Bandung, Indonesia
-status     : learning & building
+status     : sleeping
 ```
-
-A Computer Science student who enjoys turning ideas into something tangible through code (depends).
-
-Currently exploring **web development, it-business, cybersecurity, and software engineering** — learning by building, experimenting, breaking things, and figuring out how to fix them.
-
-Sometimes I code with a purpose.
-
-Sometimes I don't code.
-
-Either way, there's probably music playing in the background.
-
 ---
 
 ## `> interests --list`
@@ -64,13 +53,6 @@ Either way, there's probably music playing in the background.
 ├── HTML / CSS
 ├── Next.js
 └── Tailwind CSS
-
-
-┌─[ TOOLS ]
-│
-├── Git / GitHub
-├── VS Code
-└── Godot
 ```
 
 ```text
